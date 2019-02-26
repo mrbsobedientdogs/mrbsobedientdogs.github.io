@@ -1,0 +1,29 @@
+.navbar-brand {
+	font-size: 2em;
+}
+
+
+.container{
+ 	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	} 
+
+img {
+	width: : 200px;
+	height:  200px;
+	margin: 10px;
+	transition: all 1s;
+	filter: grayscale(.4); /*gives a feeling of grayscale*/
+}
+
+img:hover {
+	transform: scale(1.5);
+	filter: none;  /*shows original vibrant picture*/
+}
+
+
+
+#purchase-btn {
+	align-items: center;}
+
