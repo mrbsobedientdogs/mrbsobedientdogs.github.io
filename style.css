@@ -3,11 +3,11 @@
 }
 
 
-.container{
+/*.container{
  	display: flex;
 	flex-wrap: wrap;
 	align-items: stretch;
-	} 
+	} */
 
 img {
 	width: : 200px;
@@ -24,6 +24,15 @@ img:hover {
 
 
 
-#purchase-btn {
-	align-items: center;}
+#button-column {
+	align-items: center;
+	}
+
+/*#purchase-btn{
+	padding-bottom: 10px;
+}*/
+
+#mc_embed_signup {
+	padding-top: 10px;
+}
 
