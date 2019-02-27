@@ -25,7 +25,7 @@ img:hover {
 
 
 #button-column {
-	align-items: center;
+	align-content: center;
 	}
 
 /*#purchase-btn{
